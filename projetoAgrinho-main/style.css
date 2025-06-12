@@ -2,16 +2,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #000000;
+    --laranja-claro: #ff2a2a;
 }
 
 body {
+    background-color: aquamarine;
     font-size: 1rem;
     font-family: 'Montserrat';
 }
 
 header {
-    background-color: #96e0f3;
+    background-color: #51d857;
 }
 
 
@@ -21,7 +22,7 @@ section {
 
 
 .nav-link {
-    color: #000000;
+    color: #e91515;
     font-weight: 600;
 }
 
@@ -100,7 +101,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #a1d9e7;
+    background-color: #16a9bd;
 
 }
 
@@ -118,7 +119,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #bafad5;
+    background-color: #5ac22a;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -129,11 +130,11 @@ h2 {
 }
 
 .formulario button {
-    background-color: #000000;
+    background-color: #cbc243;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #000000;
+    background-color: #f03d96;
 }
